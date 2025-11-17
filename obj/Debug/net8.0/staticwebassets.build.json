@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "L6my/JWQU3JG2llK3gja5LHT57PZvo2NdX9TEGaCa9k=",
+  "Source": "ApiEx",
+  "BasePath": "_content/ApiEx",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
